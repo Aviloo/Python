@@ -64,37 +64,14 @@ def bot():
 					sender(id, 'Начинаю процесс')
 					sender(id, 'Успешно!...')
 					sys.exit()
-				if msg == "говно":
-					sender(id, 'Мое сердце из кода и гаек разбито. *Звуки Кибер-Слез*')
-				if msg == "ты тупой":
-					sender(id, '101011101010101001')
-					time.sleep(1)
-					sender(id, '101011101010101011')
-					time.sleep(1)
-					sender(id, '000001101100101011')
-					time.sleep(2)
-					sender(id, 'import os')
-					sender(id, 'os.system("TASKKILL /F /I MilkyMineBotVK.exe")')
-					time.sleep(3)
-					sender(id, 'Reload ...')
+
 				if msg == ".update":
 					send_post(id, uupdate)
 					sender(id, 'Сверху ссылка на пост о последнем обновлении')
 				if msg == '.update - новости сервера':
 					send_post(id, uupdate)
 					sender(id, 'Сверху ссылка на пост о последнем обновлении')
-				if msg == "пидор":
-					sender(id, 'Мое сердце из кода и гаек разбито. *Звуки Кибер-Слез*')
-				if msg == "хуесос":
-					sender(id, 'У меня гайки нет , но болт ... *Кибер-Смех*')
-				if msg == "даун":
-					sender(id, 'Мое сердце из кода и гаек разбито. *Звуки Кибер-Слез*')
-				if msg == "додик":
-					sender(id, 'Мое сердце из кода и гаек разбито. *Звуки Кибер-Слез*')
-				if msg == "аутист":
-					sender(id, 'Мое сердце из кода и гаек разбито. *Звуки Кибер-Слез*')
-				if msg == "дебил":
-					sender(id, 'Иди на ... Майнкрафт')
+
 				if msg == "++":
 					sender(id, 'Рассылка on')
 				if msg == ".help - список команд":
