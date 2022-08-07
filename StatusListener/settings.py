@@ -1,5 +1,5 @@
 # link to check status
-link = "https://vk.com/bogdanpawp"
+link = "https://vk.com/yourlink"
 # class to track(optional)
 online_class = "profile_online_lv"
 # In Seconds
@@ -17,10 +17,10 @@ Cooldown = 20.0
 # | '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
 #  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'
 # to send emails change to True
-email_distribution = "True"
+email_distribution = "False"
 # Letter recipient
-email_address = "osminogcool@gmail.com"
+email_address = "sendmail@gmail.com"
 # mail used for sending
-your_address = "osminogcool@gmail.com"
+your_address = "yourmail@gmail.com"
 # password from mail used for sending
-your_password = "ferejwdrafbisarz"
+your_password = "yourpassword"
