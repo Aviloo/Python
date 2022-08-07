@@ -7,10 +7,6 @@ import datetime
 import time
 import smtplib
 
-
-
-
-
 link = settings.link
 
 def file_creation(text):
