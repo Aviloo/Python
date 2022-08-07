@@ -65,7 +65,7 @@ def listen():
 	if html.status_code == 200:
 		content(html.content)
 	else:
-		print("Error")
+		print("Error. Check your link")
 
 
 def main():
